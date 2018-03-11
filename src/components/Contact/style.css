@@ -1,0 +1,39 @@
+/* You can add global styles to this file, and also import other style files */
+*{
+    
+      margin: 0px;
+      padding: 0px;
+    
+    }
+    div#general{
+    
+      margin: auto;
+      width: 960px;
+      height: 800px;
+      background-color: red;
+    }
+    div#ofertas{
+      float: right;
+      width: 300px;
+      height: 500px;
+      background-color: green;
+    }
+    
+    div#novedades{
+    width: 640px;
+    height: 200px;
+    background-color: blue;
+    
+    }
+    div#final{
+      margin-top: 20px; 
+      width: 640px;
+      height: 580px;
+      background-color: violet;
+    }
+    
+    .navBardemoBasicUsage md-content .ext-content {
+      padding: 50px;
+      margin: 20px;
+      background-color: #FFF2E0; 
+    }
